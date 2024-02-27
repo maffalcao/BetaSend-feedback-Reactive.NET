@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reactive.Net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba2fafe19c5902a79db1765672115f8b9acd152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5f0793533af961e276a78c34e8124efbaa39a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reactive.Net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reactive.Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
