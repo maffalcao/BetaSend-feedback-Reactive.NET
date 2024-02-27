@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8M5LlKQeJZxme8ZFPuQQ22AD7O88zenbTs0kr8yrYSDiWYbLwBGo5J42oKAIMOmYjIkOFH0Uih/ISOeMgjLDA==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\Reactive.NET\\Reactive.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maffa\\.nuget\\packages\\akka\\1.5.16\\akka.1.5.16.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\akka.analyzers\\0.2.2\\akka.analyzers.0.2.2.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.26\\microsoft.extensions.objectpool.6.0.26.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.reactive\\6.0.1-preview.1\\system.reactive.6.0.1-preview.1.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\maffa\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
